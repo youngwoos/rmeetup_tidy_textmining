@@ -2,6 +2,7 @@
 
 - 텍스트를 쉽게 분석하는 방법([link](http://youngwoos.github.io/rmeetup_tidy_textmining/tidy_textmining.html))
 - Full Version([link](https://github.com/youngwoos/Doit_textmining/tree/main/docs))
+- [Seoul R Meetup Group](https://www.meetup.com/ko-KR/seoul-r-meetup/)
 
 ---
 
