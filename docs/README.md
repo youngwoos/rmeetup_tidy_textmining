@@ -1,13 +1,17 @@
-# 강의용 프리젠테이션 자료
+# Seoul R Users Meetup 프리젠테이션 자료
 
-파일           | 내용
-:------------- |:-------------
-[01-wordFrequency.html](https://youngwoos.github.io/Doit_textmining/01-wordFrequency.html)| 01 단어 빈도 분석
-[02-morphologicalAnalysis.html](https://youngwoos.github.io/Doit_textmining/02-morphologicalAnalysis.html)| 02 형태소 분석기를 이용한 단어 빈도 분석
-[03-comparing.html](https://youngwoos.github.io/Doit_textmining/03-comparing.html)| 03 비교 분석
-[04-sentimentAnalysis.html](https://youngwoos.github.io/Doit_textmining/04-sentimentAnalysis.html)| 04 감정 분석
-[05-co-occurrenceAnalysis](https://youngwoos.github.io/Doit_textmining/05/05-co-occurrenceAnalysis.html)| 05 의미망 분석
-[06]()| 06 토픽 모델링
+- 텍스트를 쉽게 분석하는 방법([link](http://youngwoos.github.io/rmeetup_tidy_textmining/tidy_textmining.html))
+- Full Version([link](https://github.com/youngwoos/Doit_textmining/tree/main/docs))
+
+---
+
+##### 국문 초록
+제목: 텍스트를 쉽게 분석하는 방법
+텍스트 데이터도 tidy한 스타일로 다루면 쉽게 분석할 수 있습니다. 토큰화, 형태소 분석, TF-IDF 계산부터 네트워크 그래프를 만드는 작업까지, tidy한 방법으로 텍스트를 분석하는 방법을 소개합니다.
+
+##### 영문 초록
+Title: How to easily analyze text data.
+Text data can also be analyzed easily in tidy way. From Tokenization, Morphological analysis, and calculating TF-IDF to creating network graphs, this talk introduces how to analyze text data in tidy way.
 
 ---
 
@@ -16,4 +20,6 @@
 - [Ctrl]+[P]로 인쇄하면 PDF로 저장할 수 있습니다.
 - [o]를 누르면 전체 슬라이드를 한눈에 볼 수 있습니다.
 - 자유롭게 수정하고 배포하셔도 됩니다.
+
+
 

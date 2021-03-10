@@ -132,6 +132,27 @@ include_graphics("https://raw.githubusercontent.com/youngwoos/Doit_textmining/ma
 
 ---
 
+
+
+
+
+
+<br><br><br><br><br><br><br>
+
+.center[
+
+.large2[.font-jua[This slide]]
+
+<br-10>
+
+`r fontawesome("github")` **[youngwoos.github.io/rmeetup_tidy_textmining/tidy_textmining.html](http://youngwoos.github.io/rmeetup_tidy_textmining/tidy_textmining.html)**
+]
+
+
+
+
+---
+
 <br><br><br><br><br><br><br>
 
 .center[
